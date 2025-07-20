@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Preview do podcast
 </p>
 
 <div align="center">
@@ -28,40 +28,39 @@
 
 # Projeto Podcast Gerado por I.A.s
 
+> ℹ️ **NOTA:** Este é o repositório que desenvolvi durante o curso [Microsoft 50 Anos - Prompts Inteligentes](https://web.dio.me/track/microsoft-50-anos-prompts-inteligentes) da [DIO](https://dio.me)
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso de [Microsoft 50 Anos - Prompts Inteligentes](https://web.dio.me/track/microsoft-50-anos-prompts-inteligentes) da [DIO](https://dio.me)
+Criei este projeto com o objetivo de gerar um podcast utilizando ferramentas de inteligência artificial através de uma esteira de prompts bem estruturada.
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Utilizei prompts otimizados em cada etapa do processo criativo.
 
-Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+## 💻 Tecnologias que utilizei no projeto
 
-## 💻 Tecnologias utilizadas no projeto
+- [ChatGPT](https://chat.openai.com/)  
+- [ElevenLabs](https://beta.elevenlabs.io/)  
+- [CapCut](https://www.capcut.com/pt-br/)
 
-- [ChatGPT](https://chat.openai.com/) 
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+## ✨ Como eu fiz
 
-## ✨ Como foi feito ?
+- Criei o roteiro com o ChatGPT  
+- Gere o áudio com o ElevenLabs  
+- Criei a capa com o GPT  
+- Editei e tratei o áudio usando o CapCut, adicionando efeitos e trilha de fundo
 
-- Roteiro gerado via ChatGPT
-- Audio gerado pela ElevenLabs
-- Capa gerada pelo GPT
-- Capcut para tratar aúdio e adicionar sons de fundo
+## 📚 Materiais que usei
 
-## 📚 Materiais
+- [Link do curso Microsoft 50 Anos - Prompts Inteligentes](https://web.dio.me/track/microsoft-50-anos-prompts-inteligentes)  
+- [Template no Notion](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)  
+- [Editor de áudio do CapCut](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+## 🛠️ Como eu executei o projeto
 
+Segui o passo a passo com os prompts disponíveis no `Notion`, presente na seção de materiais, para criar o podcast de forma automatizada:
 
-## 🛠️ Instruções de execução utilizados
-
-Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Usei os prompts de roteiro no `chagpt`
-- 🤖 2. Usei os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Usei os prompts de artes no `GPT`
+- 🤖 1. Usei os prompts de roteiro no `ChatGPT`  
+- 🤖 2. Levei o roteiro para o `ElevenLabs` para gerar a narração  
+- 🤖 3. Usei prompts para criar a arte da capa no `GPT`  
+- 🎧 4. Finalizei o projeto no `CapCut`, ajustando o áudio com trilhas e cortes
 
 ## 👨‍💻 Expert
 
@@ -72,28 +71,19 @@ Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais`
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/wesleycarvalhopereira">
-        GitHub
-    </a>
+    <p>&nbsp;&nbsp;&nbsp;Felipe Aguiar<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/wesleycarvalhopereira">GitHub</a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.linkedin.com/in/wesley-carvalho/">
-        LinkedIn
-    </a>
+    <a href="https://www.linkedin.com/in/wesley-carvalho/">LinkedIn</a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/wgold_/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="https://www.instagram.com/wgold_/">Instagram</a>
+    </p>
 </p>
+
 <br/><br/>
-<p>
 
 ---
 
-⌨️ Por [Wesley Carvalho](https://github.com/wesleycarvalhopereira)
-⌨️ Clone de Repositório do professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ Criado por [Wesley Carvalho](https://github.com/wesleycarvalhopereira)  
+🧠 Projeto inspirado e baseado no repositório do professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
