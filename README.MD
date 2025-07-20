@@ -65,13 +65,7 @@ Segui o passo a passo com os prompts disponíveis no `Notion`, presente na seç�
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp;&nbsp;&nbsp;Felipe Aguiar<br>
+    <p>&nbsp;&nbsp;&nbsp;Wesley Carvalho<br>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/wesleycarvalhopereira">GitHub</a>
     &nbsp;|&nbsp;
