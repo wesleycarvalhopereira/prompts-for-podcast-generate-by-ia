@@ -62,6 +62,13 @@ Segui o passo a passo com os prompts disponíveis no `Notion`, presente na seç�
 - 🤖 3. Usei prompts para criar a arte da capa no `GPT`  
 - 🎧 4. Finalizei o projeto no `CapCut`, ajustando o áudio com trilhas e cortes
 
+## Projeto Finalizado - Notion
+
+Segue link abaixo para apresentação do projeto "Podcast com IA Generativa"
+p>&nbsp;&nbsp;&nbsp;Podcast<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.notion.so/Clube-da-Intelig-ncia-Criativa-Cria-o-sem-limites-s-regras-de-clube-236c5319a3af804ca172cb3a1049d49e?source=copy_link">Notion</a>
+
 ## 👨‍💻 Expert
 
 <p>
