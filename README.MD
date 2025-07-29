@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/assets/robo-comentarista.png"
+    src="./assets/robo-comentarista.png"
     width="300"
 />
 </p>
